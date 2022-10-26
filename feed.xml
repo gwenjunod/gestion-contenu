@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Mon premier site</title>
+    <link href="https://gwenjunod.github.io/gestion-contenu/feed.xml" rel="self" />
+    <link href="https://gwenjunod.github.io/gestion-contenu" />
+    <updated>2022-10-26T21:30:04+02:00</updated>
+    <author>
+        <name>Gwen</name>
+    </author>
+    <id>https://gwenjunod.github.io/gestion-contenu</id>
+
+    <entry>
+        <title>Première page</title>
+        <author>
+            <name>Gwen</name>
+        </author>
+        <link href="https://gwenjunod.github.io/gestion-contenu/premiere-page.html"/>
+        <id>https://gwenjunod.github.io/gestion-contenu/premiere-page.html</id>
+
+        <updated>2022-10-26T21:30:04+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--wide"><img loading="lazy"  src="https://gwenjunod.github.io/gestion-contenu/media/posts/1/moon.png" sizes="100vw" srcset="https://gwenjunod.github.io/gestion-contenu/media/posts/1/responsive/moon-xs.png 300w ,https://gwenjunod.github.io/gestion-contenu/media/posts/1/responsive/moon-sm.png 480w ,https://gwenjunod.github.io/gestion-contenu/media/posts/1/responsive/moon-md.png 768w ,https://gwenjunod.github.io/gestion-contenu/media/posts/1/responsive/moon-lg.png 1024w ,https://gwenjunod.github.io/gestion-contenu/media/posts/1/responsive/moon-xl.png 1360w ,https://gwenjunod.github.io/gestion-contenu/media/posts/1/responsive/moon-2xl.png 1600w"  alt="Lune devant la Terre" width="2048" height="2048"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

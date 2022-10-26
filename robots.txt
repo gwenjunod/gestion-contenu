@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gwenjunod.github.io/gestion-contenu/sitemap.xml

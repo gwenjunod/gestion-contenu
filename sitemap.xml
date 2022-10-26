@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://gwenjunod.github.io/gestion-contenu/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://gwenjunod.github.io/gestion-contenu/</loc>
+</url>
+<url>
+<loc>https://gwenjunod.github.io/gestion-contenu/premiere-page.html</loc>
+<lastmod>2022-10-26T21:30:04+02:00</lastmod>
+<image:image>
+<image:loc>https://gwenjunod.github.io/gestion-contenu/media\posts\1/moon.png</image:loc>
+<image:title><![CDATA[Lune devant la Terre]]></image:title>
+</image:image>
+</url>
+</urlset>
